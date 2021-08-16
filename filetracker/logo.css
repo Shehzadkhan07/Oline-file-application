@@ -1,0 +1,25 @@
+.navbar-brand{
+	margin: 0;
+	padding: 0;
+
+}
+
+.logo{
+	width: 200px;
+	height: 70px;
+	padding-right: 15px;
+	padding-left: 5px;
+
+}
+.navbar-inverse{
+	height: 65%;
+	padding-top:20px; 
+}
+
+
+
+
+  .home {
+     background-image: url(../images/bkuc.jpg);   
+	background-position: center;
+  }
